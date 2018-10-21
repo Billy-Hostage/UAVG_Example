@@ -1,0 +1,3 @@
+[submodule "Plugins/UAVG"]
+	path = Plugins/UAVG
+	url = https://github.com/NTRHostage/UAVG.git
