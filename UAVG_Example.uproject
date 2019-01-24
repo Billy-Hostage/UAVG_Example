@@ -14,6 +14,10 @@
 		{
 			"Name": "UAVG",
 			"Enabled": true
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": false
 		}
 	]
 }
