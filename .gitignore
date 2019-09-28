@@ -78,3 +78,5 @@ DerivedDataCache/*
 
 .vscode/
 *.code-workspace
+x64_build/
+Content/Fonts/
