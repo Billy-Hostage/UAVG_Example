@@ -8,6 +8,7 @@ public class UAVG_ExampleEditorTarget : TargetRules
 	public UAVG_ExampleEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
+		DefaultBuildSettings = BuildSettingsVersion.V2;
 
 		ExtraModuleNames.AddRange( new string[] { "UAVG_Example" } );
 	}

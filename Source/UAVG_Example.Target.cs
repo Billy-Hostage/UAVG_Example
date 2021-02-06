@@ -8,6 +8,7 @@ public class UAVG_ExampleTarget : TargetRules
 	public UAVG_ExampleTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
+		DefaultBuildSettings = BuildSettingsVersion.V2;
 
 		ExtraModuleNames.AddRange( new string[] { "UAVG_Example" } );
 	}
